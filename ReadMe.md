@@ -1,7 +1,7 @@
-# 👨‍💻 kooixh
+# 👨‍💻 kooixh on :octocat:
 Hello World 👋 
 
-I am Xiu Hong and I am a backend software engineer 🚀, I create random web and mobile related stuff here.
+I am Xiu Hong and I am a backend software engineer 🚀 On here I create random web and mobile related stuff which I think are kinda cool 😎 (I'll let you be the judge of that 😬).
 
 ## Some Facts About Me
 #### ⚙️ Build stuff in Java, NodeJS, Python, Go, React and more
