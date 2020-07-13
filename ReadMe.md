@@ -1,4 +1,4 @@
-# 👨‍💻 kooixh on <img alt="Octocat" width="38px" src="octocat.svg" />
+# 👨‍💻 kooixh on <img alt="Octocat" width="38px" src="https://raw.githubusercontent.com/kooixh/kooixh/master/octocat.svg" />
 
 Hello World 👋 
 
