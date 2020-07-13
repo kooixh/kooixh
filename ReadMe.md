@@ -7,10 +7,10 @@ I am Xiu Hong and I am a backend software engineer 🚀 On here I create random 
 > First Solve The Problem, Then Write The Code
 
 ## Some Facts About Me
-#### ⚙️ Build stuff in Java, NodeJS, Python, Go, React and more
-#### 📝 Write SWE related tech blogs [here](https://blog.kooixiuhong.com/)
+#### ⚙️ Builds stuff in Java, NodeJS, Python, Go, React and more
+#### 📝 Writes SWE related tech blogs [here](https://blog.kooixiuhong.com/)
 #### 📱 Tech Enthusiast, come talk to me about tech 
-#### ⚽️ Love football, fitness, coffee and movies 
+#### ⚽️ Loves football, fitness, coffee and movies 
 
 
 ## Reach Me
