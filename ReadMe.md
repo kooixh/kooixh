@@ -1,4 +1,5 @@
-# 👨‍💻 kooixh on :octocat:
+# 👨‍💻 kooixh on <img alt="Xiu Hong's LinkedIn" width="38px" src="https://gist.githubusercontent.com/johan/1007813/raw/a25829510f049194b6404a8f98d22978e8744a6f/octocat.svg" />
+
 Hello World 👋 
 
 I am Xiu Hong and I am a backend software engineer 🚀 On here I create random web and mobile related stuff which I think are kinda cool 😎 (I'll let you be the judge of that 😬).
