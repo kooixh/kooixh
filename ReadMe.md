@@ -2,11 +2,16 @@
 
 Hello World 👋 
 
-I am Xiu Hong and I am a backend software engineer 🚀 On here I create random web and mobile related stuff which I think are kinda cool 😎 (I'll let you be the judge of that 😬).
+I am Xiu Hong, Computer Scientist and Backend Software Engineer 🚀 On here I create random web and mobile related stuff which I think are kinda cool 😎 (I'll let you be the judge of that 😬).
+
+Currently looking for graduate software engineer role.
 
 > First Solve The Problem, Then Write The Code
+> 
+> Any Computer Scientist who tells you it's perfect is an idiot.
 
 ## Some Facts About Me
+#### 🎓 Computer Science at the University of Cambridge
 #### ⚙️ Builds stuff in Java, NodeJS, Python, Go, React and more
 #### 📝 Writes SWE related tech blogs [here](https://blog.kooixiuhong.com/)
 #### 📱 Tech Enthusiast, come talk to me about tech 
