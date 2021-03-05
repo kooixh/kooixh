@@ -18,9 +18,9 @@ I am Xiu Hong, Computer Scientist and Backend Software Engineer 🚀 On here I c
 
 
 ## Reach Me
-Feel free to chat with be on Twitter <img alt="Xiu Hong | Twitter" width="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> at 👉 [@kooixiuhong](https://twitter.com/kooixiuhong), just shoot me a DM 📨
+Feel free to chat with be on Twitter at 👉 [@kooixh](https://twitter.com/kooixh), just shoot me a DM 📨
 
-If you wanna be a little more formal 👔 then do reach out on [LinkedIn   <img alt="Xiu Hong's LinkedIn" width="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kooixh/) 
+If you wanna be a little more formal 👔 then do reach out on [LinkedIn](https://www.linkedin.com/in/kooixh/) 
 
 Learn more about me on my personal site 👉 [here](https://kooixiuhong.com)
 
