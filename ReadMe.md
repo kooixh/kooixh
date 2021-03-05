@@ -4,7 +4,6 @@ Hello World 👋
 
 I am Xiu Hong, Computer Scientist and Backend Software Engineer 🚀 On here I create random web and mobile related stuff which I think are kinda cool 😎 (I'll let you be the judge of that 😬).
 
-Currently looking for graduate software engineer role.
 
 > First Solve The Problem, Then Write The Code
 > 
