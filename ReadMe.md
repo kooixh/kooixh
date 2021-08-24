@@ -1,6 +1,6 @@
-# 👨‍💻 Hello World 👋
+# Hello World 👋
 
-I am Xiu Hong, Computer Scientist and Backend Software Engineer 🚀 On here I create random web and mobile related stuff which I think are kinda cool 😎 (or maybe not 😬).
+I'm Xiu Hong, Computer Scientist and Backend Software Engineer 🚀 Here are some random cool web and mobile related stuff I've created. 
 
 
 > First Solve The Problem, Then Write The Code
@@ -9,14 +9,14 @@ I am Xiu Hong, Computer Scientist and Backend Software Engineer 🚀 On here I c
 
 ## Some Facts About Me 🙋‍♂️
 #### 🎓 Computer Science at the University of Cambridge
+#### 👨‍💻 Backend Engineer at [MoneyLion](https://www.moneylion.com/), NY based Fintech Bank
 #### ⚙️ Builds stuff in Java, NodeJS, Python, Go, React and more
 #### 📝 Writes SWE related tech blogs [here](https://blog.kooixiuhong.com/)
-#### 📱 Tech Enthusiast, come talk to me about tech 
-#### ⚽️ Loves football, fitness, coffee and movies 
-
+#### 📱 Tech Enthusiast, from PCs to Mobile
+#### ⚽️ Football, fitness, coffee and movies lover
 
 ## Reach Me ☎️
-Feel free to chat with be on Twitter at 👉 [@kooixh](https://twitter.com/kooixh), just shoot me a DM 📨
+Feel free to DM with be on Twitter at 👉 [@kooixh](https://twitter.com/kooixh)
 
 Alternatively you can reach out on [LinkedIn](https://www.linkedin.com/in/kooixh/) 
 
