@@ -16,7 +16,7 @@ I'm Xiu Hong, Computer Scientist and Backend Software Engineer 🚀 Here are som
 #### ⚽️ Football, fitness, coffee and movies lover
 
 ## Reach Me ☎️
-Feel free to DM with be on Twitter at 👉 [@kooixh](https://twitter.com/kooixh)
+Feel free to shoot me a DM on Twitter at 👉 [@kooixh](https://twitter.com/kooixh)
 
 Alternatively you can reach out on [LinkedIn](https://www.linkedin.com/in/kooixh/) 
 
