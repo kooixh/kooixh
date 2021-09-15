@@ -1,6 +1,6 @@
 # Hello World 👋
 
-I'm Xiu Hong, Computer Scientist and Backend Software Engineer 🚀 Here are some random cool web and mobile related stuff I've created. 
+I'm Xiu Hong, Backend Software Engineer and Computer Scientist 🚀. Here are some random cool web and mobile related stuff I've created. 
 
 
 > First Solve The Problem, Then Write The Code
