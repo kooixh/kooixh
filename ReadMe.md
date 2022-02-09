@@ -24,7 +24,9 @@ Learn more about me on my personal site 👉 [here](https://kooixiuhong.com)
 
 ## Some Stats 📈
 ![kooixh_profile_stats](https://github-readme-stats.vercel.app/api?username=kooixh&count_private=true&show_icons=true&theme=tokyonight) 
- ![kooixh_Language_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kooixh&langs_count=4&count_private=true&layout=compact&theme=tokyonight)
+![kooixh_Language_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kooixh&langs_count=4&count_private=true&layout=compact&theme=tokyonight)
+![kooixh_Language_stats](https://github-readme-streak-stats.herokuapp.com/?user=kooixh&theme=black-ice&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
+
 
 ## <br> 
 
