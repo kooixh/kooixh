@@ -11,7 +11,6 @@ I'm Xiu Hong, Backend Software Engineer and Computer Scientist 🚀. Here are so
 #### 🎓 Computer Science at the University of Cambridge
 #### 👨‍💻 Software Engineer at TikTok
 #### ⚙️ Builds stuff in Java, NodeJS, Python, Go, React and more
-#### 📝 Writes SWE related tech blogs [here](https://blog.kooixiuhong.com/)
 #### 📱 Tech Enthusiast, from PCs to Mobile
 #### ⚽️ Football, fitness, coffee and movies lover
 
