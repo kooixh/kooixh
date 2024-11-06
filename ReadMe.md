@@ -9,7 +9,7 @@ I'm Xiu Hong, Backend Software Engineer and Computer Scientist 🚀. Here are so
 
 ## Some Facts About Me 🙋‍♂️
 #### 🎓 Computer Science at the University of Cambridge
-#### 👨‍💻 Software Engineer at TikTok
+#### 👨‍💻 Software Engineer at Stripe
 #### ⚙️ Builds stuff in Java, NodeJS, Python, Go, React and more
 #### 📱 Tech Enthusiast, from PCs to Mobile
 #### ⚽️ Football, fitness, coffee and movies lover
