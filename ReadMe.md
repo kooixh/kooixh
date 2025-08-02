@@ -1,32 +1,17 @@
 # Hello World 👋
 
-I'm Xiu Hong, Backend Software Engineer and Computer Scientist 🚀. Here are some random cool web and mobile related stuff I've created. 
+I write code, draw diagrams and write docs. Currently @ Stripe. 
 
+## Tools I use
 
-> First Solve The Problem, Then Write The Code
-> 
-> Any Computer Scientist who tells you it's perfect is an idiot.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
 
-## Some Facts About Me 🙋‍♂️
-#### 🎓 Computer Science at the University of Cambridge
-#### 👨‍💻 Software Engineer at Stripe
-#### ⚙️ Builds stuff in Java, NodeJS, Python, Go, React and more
-#### 📱 Tech Enthusiast, from PCs to Mobile
-#### ⚽️ Football, fitness, coffee and movies lover
-
-## Reach Me ☎️
-Feel free to shoot me a DM on Twitter at 👉 [@kooixh](https://twitter.com/kooixh)
-
-Alternatively you can reach out on [LinkedIn](https://www.linkedin.com/in/kooixh/) 
-
-Learn more about me on my personal site 👉 [here](https://kooixiuhong.com)
 
 ## Some Stats 📈
 ![kooixh_profile_stats](https://github-readme-stats.vercel.app/api?username=kooixh&count_private=true&show_icons=true&theme=tokyonight) 
-![kooixh_Language_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kooixh&langs_count=4&count_private=true&layout=compact&theme=tokyonight)
 ![kooixh_Language_stats](https://github-readme-streak-stats.herokuapp.com/?user=kooixh&theme=black-ice&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
 
-
-## <br> 
+<br/>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
